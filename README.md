@@ -1,3 +1,4 @@
+modified read me file
 # Simple React JS Project
 
 ## What is the use of this Repo
